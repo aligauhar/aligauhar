@@ -21,14 +21,13 @@
 - ⚙ I am interested in topics related to:
   - Full Stack Web Development
   - Data Science
-  - Multicloud
   - AI and Deep Learning
   - Quant Developement
-- 🔭 I am currently working on multiple technologies and frame works like MERN Stack, Laravel, Django, Flask, and React Native.
+- 🔭 I am currently working on multiple technologies and frame works like MERN Stack, Flask, and React Native.
 - 🔥 In my free time, I love to:
   - Learn about forex and do analysis.
   - Watch anime and learn about different cultures.
-- 📧 You can contact me at any time at `<a href="mailto:aligauharrrrag@gmail.com">`aligauharrrrag@gmail.com `</a>`. I'll try to respond ASAP!!
+- 📧 You can contact me at any time at `<a href="mailto:aligauharcb@gmail.com">`aligauharcb@gmail.com `</a>`. I'll try to respond ASAP!!
 - ⚡ Fun fact: I want to visit every country on this planet.
 
 <hr />
