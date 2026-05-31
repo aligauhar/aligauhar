@@ -8,7 +8,7 @@
 <p align="center">
   <a href="https://linkedin.com/in/aligauhar"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:aligauharrrrag@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://aligauhar.vercel.app"><img src="https://img.shields.io/badge/-Portfolio-0F172A?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
+  <a href="www.aligauhar.com"><img src="https://img.shields.io/badge/-Portfolio-0F172A?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
   <a href="https://github.com/aligauhar"><img src="https://komarev.com/ghpvc/?username=aligauhar&style=for-the-badge&color=2563EB" /></a>
 </p>
 
