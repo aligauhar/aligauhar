@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=4000&pause=1000&color=2563EB&center=true&width=600&lines=Revenue+Systems+Engineer;CRM+%7C+Automation+%7C+GTM+Infrastructure;300%2B+Client+Deployments+%7C+50%2B+Platforms;n8n+%7C+Make+%7C+Zapier+%7C+GoHighLevel;Next.js+%7C+PostgreSQL+%7C+AWS" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=4000&pause=1000&color=F5A623&center=true&width=600&lines=Revenue+Systems+Engineer;CRM+%7C+Automation+%7C+GTM+Infrastructure;300%2B+Client+Deployments+%7C+50%2B+Platforms;n8n+%7C+Make+%7C+Zapier+%7C+GoHighLevel;Next.js+%7C+PostgreSQL+%7C+AWS" alt="Typing SVG" />
 </p>
 
 <h1 align="center">Ali Gauhar</h1>
